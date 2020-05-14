@@ -1,0 +1,8 @@
+Webpack
+    Babel
+    SCSS
+    ESLint
+    Modes
+        -Dev (DevServer, SourceMaps, ESLint, NMin JS & CSS)
+        -Prod (Min JS & CSS)
+Git
